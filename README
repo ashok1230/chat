@@ -1,0 +1,14 @@
+This program implement the chating between client and server.
+
+How to excute:
+
+first we have to open command prompt,
+then type python server.py &
+this will run the server program in background
+
+now open another comman prompt,
+type python client.py
+then the connection will be established between client and server.
+
+
+if you want to exit then print quit.
